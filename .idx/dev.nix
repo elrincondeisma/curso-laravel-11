@@ -8,6 +8,7 @@
     pkgs.php82
     pkgs.php82Packages.composer
     pkgs.nodejs_20
+    pkgs.sqlite
   ];
   # Sets environment variables in the workspace
   env = {};
